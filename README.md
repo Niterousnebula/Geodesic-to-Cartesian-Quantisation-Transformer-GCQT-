@@ -61,9 +61,13 @@ Output Representation / Prediction
 GCQT/
 │
 ├── models/ # Transformer + quantisation modules
+
 ├── core/ # Core transformation logic
+
 ├── utils/ # Helper functions
+
 ├── experiments/ # Training / evaluation scripts
+
 ├── data/ # Sample or processed data
 │
 └── main.py # Entry point
