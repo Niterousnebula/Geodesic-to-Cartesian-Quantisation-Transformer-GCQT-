@@ -60,7 +60,7 @@ Output Representation / Prediction
 
 GCQT/
 
-│
+
 ├── models/ # Transformer + quantisation modules
 
 ├── core/ # Core transformation logic
