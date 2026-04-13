@@ -71,7 +71,7 @@ GCQT/
 
 ├── data/ # Sample or processed data
 
-│
+
 └── main.py # Entry point
 
 
