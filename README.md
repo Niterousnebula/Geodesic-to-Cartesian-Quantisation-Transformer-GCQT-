@@ -87,24 +87,33 @@ Usage
 python main.py
 
 Configure parameters inside the script or config files depending on your experiment.
+```
 ---
-Design Philosophy
+
+## Design Philosophy
 
 This project focuses on combining:
 
-Geometric reasoning (geodesic structures)
-Efficient representation (quantisation)
-Sequence modeling (transformers)
+- Geometric reasoning (geodesic structures)  
+- Efficient representation (quantisation)  
+- Sequence modeling (transformers)  
 
 The emphasis is on simplicity, modularity, and extensibility for research experimentation.
+
 ---
-Future Work
-Integration with real-world geospatial datasets
-Improved quantisation strategies for low-resource deployment
-Multi-modal extensions (vision + geometry)
-Performance benchmarking against existing geometric models
-Potential integration with graph neural networks
-References
-Geodesic representations and manifold learning
-Transformer architectures in non-Euclidean domains
-Quantisation in deep learning systems
+
+## Future Work
+
+- Integration with real-world geospatial datasets  
+- Improved quantisation strategies for low-resource deployment  
+- Multi-modal extensions (vision + geometry)  
+- Performance benchmarking against existing geometric models  
+- Potential integration with graph neural networks  
+
+---
+
+## References
+
+- Geodesic representations and manifold learning  
+- Transformer architectures in non-Euclidean domains  
+- Quantisation in deep learning systems  
